@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-color: blue;
+}
+
+#placeOrderTable {
+background-color:peachpuff;
+border: 1px solid black;
+color: black;
+table-layout: fixed;
+width: 50%;
+height: 100%;
+}
